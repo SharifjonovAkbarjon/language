@@ -1,0 +1,41 @@
+{
+    "collection": {
+        "home": "Bosh sahifa",
+        "about": "Biz haqimizda",
+        "shop": "Do`kon",
+        "contact": "Bog`lanish"
+    },
+
+    "hero": {
+        "head": "Yangi kelgan",
+        "h2": "Yangi kolleksiyamiz bilan tanishing",
+        "lorem": "Uslub va qulaylikni uyg'unlashtirgan premium mebellarning eksklyuziv kolleksiyasini xarid qiling.",
+        "shopnow": "hozir xarid qiling"
+    },
+    "footer": {
+        "logos": {
+            "first": "400 Universitet Drayvi, 200-xona, Koral Geybls, FL 33134, AQSh"
+        },
+        "links": {
+            "link": "Linklar",
+            "home": "Bosh sahifa",
+            "about": "Biz haqimizda",
+            "shop": "Do`kon",
+            "contact": "Contact"
+        },
+        "help": {
+            "hep": "Yordam",
+            "payment": "Toʻlov imkoniyatlari",
+            "return": "Qaytadi",
+            "privacy": "Maxfiylik siyosati"
+        },
+        "letter": {
+            "news": "Axborot byulleteni",
+            "input": "Elektron pochta manzilingizni kiriting",
+            "bnt": "OBUNA BO'LING"
+        },
+        "end": {
+            "reserve": "2023 Funiro. Barcha huquqlar himoyalangan"
+        }
+    }
+}

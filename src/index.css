@@ -9,3 +9,7 @@
     padding: 0 16px;
     margin: 0 auto;
 }
+
+.hero{
+    background: url(./assets/hero.png);
+}

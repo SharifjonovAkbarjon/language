@@ -1,0 +1,41 @@
+{
+    "collection": {
+        "home": "Home",
+        "about": "About",
+        "shop": "Shop",
+        "contact": "Contact"
+    },
+    
+    "hero": {
+        "head": "New Arrival",
+        "h2": "Discover Our New Collection",
+        "lorem": "Shop our exclusive collection of premium furniture that blends style and comfort.",
+        "shopnow": "Shop now"
+    },
+    "footer": {
+        "logos": {
+            "first": "400 University Drive, Suite 200, Coral Gables, FL 33134, USA"
+        },
+        "links": {
+            "link": "Links",
+            "home": "Home",
+            "about": "About",
+            "shop": "Shop",
+            "contact": "Contact"
+        },
+        "help": {
+            "hep": "Help",
+            "payment": "Payment Options",
+            "return": "Returns",
+            "privacy": "Privacy Policies"
+        },
+        "letter": {
+            "news": "Newsletter",
+            "input": "Enter Your Email Address",
+            "bnt": "SUBSCRIBE"
+        },
+        "end": {
+            "reserve": "2023 Funiro. All rights reserved"
+        }
+    }
+}
